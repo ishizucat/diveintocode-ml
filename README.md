@@ -35,7 +35,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - Sprint7　k-means、クラスタ内誤差平方和（SSE）、エルボー法、シルエット図、次元削減（PCA）
 - Sprint8　アンサンブル学習、ブレンディング、バギング、スタッキング
 
-### 3  Term2
+### Term2
 - Sprint9  　NNスクラッチ
 - Sprint10　NNスクラッチ、ReLU、Xavier、AdaGrad
 - Sprint11　CNNスクラッチ（１次元）
