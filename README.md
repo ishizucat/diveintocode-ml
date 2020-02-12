@@ -2,10 +2,16 @@
 
 DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
 
+＜学習期間＞
+ 事前課題：2019/10/2〜10/31
+ Term1、Term2：11/1〜2020/1/9
+ Term3（グループワーク）：1/10〜1/17
+ Term3（個人プロジェクト）：1/20〜1/31
+
 ### Term1
-- Sprint1
+- Sprint1　Kaggleコンペ:Home Credit default risk
 - Sprint2　train_test_splitスクラッチ、DICオリジナルデータセット
-- Sprint3　線形回帰
+- Sprint3　線形回帰スクラッチ
 - Sprint4　ロジスティック回帰、正則化項、pickle、クロスエントロピー損失関数
 - Sprint5　SVM、ラグランジュ乗数、plt.annotate、多項式対応
 - Sprint6　決定木、ジニ不純度、情報利得
@@ -16,7 +22,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - Sprint9  　NNスクラッチ
 - Sprint10　NNスクラッチ、ReLU、Xavier、AdaGrad
 - Sprint11　CNNスクラッチ（１次元）
-- Sprint12　CNNスクラッチ（２次元）、LeNet
+- Sprint12　CNNスクラッチ（２次元）
 - Sprint13　TensorFlow入門
 - Sprint14　Keras入門
 - Sprint15　Faster RCNN論文読解
